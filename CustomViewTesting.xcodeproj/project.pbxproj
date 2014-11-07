@@ -417,7 +417,6 @@
 				816A5B281A0BE65B000B901F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		816A5B291A0BE65B000B901F /* Build configuration list for PBXNativeTarget "CustomViewTestingTests" */ = {
 			isa = XCConfigurationList;
@@ -426,7 +425,6 @@
 				816A5B2B1A0BE65B000B901F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
